@@ -2,7 +2,7 @@
 
 # Create VK Mini App [![npm][npm]][npm-url] [![deps][deps]][deps-url]
 
-##Live demo
+## Live demo
 [Ссылка на работающее приложение](https://vk.com/app7514412_439317716)
 
 ## How to start work with app
